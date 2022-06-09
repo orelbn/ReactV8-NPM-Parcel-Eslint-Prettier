@@ -1,0 +1,8 @@
+/colorTheme and Fonts.md
+node_modules
+dist/
+.env
+.DS_Store
+coverage/
+.vscode/
+.parcel-cache
